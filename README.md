@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cherry!</h1>
-<h3 align="center">A junior data analyst</h3>
+<h3 align="center">A entry-leveld analyst</h3>
 
 - 📫 How to reach me **macababbad.cherrym@gmail.com**
 
