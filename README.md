@@ -12,8 +12,8 @@
 
 
 <h3 align="left">Certificates </h3>
-- DataCamp: https://www.datacamp.com/home <br>
-  - Data Analysis in SQL
+- [DataCamp](https://www.datacamp.com/home)<br>
+  -Data Analysis in SQL
 <!--
 **macababbadcherry/macababbadcherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
