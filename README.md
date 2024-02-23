@@ -11,8 +11,9 @@
 <h3 align="left">Portfolio</h3>
 
 
-<h3 align="left">Certifications</h3>
-
+<h3 align="left">Certificates</h3>
+- DataCamp
+  - Data Analysis in SQL
 <!--
 **macababbadcherry/macababbadcherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
