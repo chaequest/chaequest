@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Certificates </h3>
-- DataCamp href="https://linkedin.com/in/cherry-mae-macababba
+- DataCamp 
   -Data Analysis in SQL 
 
   
