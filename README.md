@@ -15,13 +15,6 @@
 <a href="https://www.hackerrank.com/merrynalysis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="merrynalysis" height="30" width="40" /></a>
 </p>
 
-
-
-<h3 align="left">Certificates </h3>
--<a href="https://www.datacamp.com/" target="_blank">
-  <img src="https://static.datacamp.com/images/logo-datacamp-black.svg" alt="DataCamp" width="100">
-</a>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaequest&show_icons=true&locale=en" alt="chaequest" /></p>
   
 <!--
