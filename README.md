@@ -1,8 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=github1&label=Profile%20views&color=0e75b6&style=flat" alt="github1" /> </p>
 <h1 align="center">Hi , I'm Cherry! 👋 </h1>
 
 <h3 align="left">Cherry Mae Macababbad | Data Professional in Progress</h3>
-![image](https://github.com/user-attachments/assets/fb0a942a-c4a9-49f1-a626-a90f3e824cea)
- I graduated with a Bachelor of Science in Mathematics from the University of the Philippines. <br>
+
+I graduated with a Bachelor of Science in Mathematics from the University of the Philippines. <br>
 👋 I completed the PLDT x For The Women Data Science Scholarship Program with a machine learning capstone project focused on time series data. <br>
  📫 How to reach me **macababbad.cherrym@gmail.com**
 
