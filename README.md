@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Cherry! 👋 </h1>
 
-👋 I'm Merry, Bachelor of Science in Mathematics graduate from the University of the Philippines, data professional in progress. <br>
-👋 I'm a [FTW](https://www.linkedin.com/company/ftwfoundation/posts/?feedView=all) scholar graduate with a machine learning capstone project focused on time series data.
-<br>
+<h3 align="left">Cherry Mae Macababbad | Data Professional in Progress</h3>
+👋 I graduated with a Bachelor of Science in Mathematics from the University of the Philippines. <br>
+👋 I completed the PLDT x For The Women Data Science Scholarship Program with a machine learning capstone project focused on time series data. <br>
  📫 How to reach me **macababbad.cherrym@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
