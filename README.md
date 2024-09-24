@@ -18,8 +18,8 @@
 
 
 <h3 align="left">Certificates </h3>
-- <a href="https://www.datacamp.com/" target="_blank">
-  <img src="https://www.datacamp.com/static/images/logo-datacamp-black.svg" alt="DataCamp" width="100">
+-<a href="https://www.datacamp.com/" target="_blank">
+  <img src="https://static.datacamp.com/images/logo-datacamp-black.svg" alt="DataCamp" width="100">
 </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaequest&show_icons=true&locale=en" alt="chaequest" /></p>
