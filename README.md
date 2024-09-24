@@ -24,14 +24,13 @@
 <a href="https://linkedin.com/in/cherry-mae-macababbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cherry-mae-macababbad" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3><p <a href="https://linkedin.com/in/linkeind1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkeind1" height="30" width="40" /></a></p>
 
-<h3 align="left">Portfolio</h3>
 
 
 <h3 align="left">Certificates </h3>
 - DataCamp 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaequest&show_icons=true&locale=en" alt="chaequest" /></p>
   
 <!--
 **macababbadcherry/macababbadcherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
