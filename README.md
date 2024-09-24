@@ -1,5 +1,5 @@
-<h1 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github1&label=Profile%20views&color=0e75b6&style=flat" alt="github1" /> </p>
- </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=github1&label=Profile%20views&color=0e75b6&style=flat" alt="github1" /> </p>
+<h1 </h1>
 <h1 align="center">Hi , I'm Cherry! 👋 </h1>
 
 <h3 align="left">Cherry Mae Macababbad | Data Professional in Progress  <img src="https://komarev.com/ghpvc/?username=github1&label=Profile%20views&color=0e75b6&style=flat" alt="github1" /> </h3>
