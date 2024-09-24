@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Cherry! 👋 </h1>
-<h3 align="center">A entry-level data analyst</h3>
 
-- 📫 How to reach me **macababbad.cherrym@gmail.com**
+👋 I'm a data professional in progress.
+👋 I'm a [FTW](https://www.linkedin.com/company/ftwfoundation/posts/?feedView=all) scholar with 
+ 📫 How to reach me **macababbad.cherrym@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
