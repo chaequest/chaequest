@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Cherry Mae Macababbad | Data Professional in Progress </h3>
-  ✨ I graduated with a Bachelor of Science in Mathematics from the University of the Philippines. <br>
+<pre> ✨ I graduated with a Bachelor of Science in Mathematics from the University of the Philippines. <br>
   👋 I completed the PLDT x For The Women Data Science Scholarship Program with a machine learning capstone project focused on time series data. <br>
   ⚡ Fun fact: I can do a cartwheel and love Zumba. <br>
 <br>
