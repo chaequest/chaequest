@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Cherry! 👋 <br> </h1>
 
 
-<h3 align="left">Cherry Mae Macababbad | Data Professional in Progress </h3>
+<h3 align="left">Cherry Mae Macababbad | Data Scientist in Progress </h3>
 &emsp; ✨ I graduated with a Bachelor of Science in Mathematics from the University of the Philippines. <br> 
 &emsp; 👋 I completed the PLDT x FTW Data Science Scholarship Program with a machine learning capstone project on time series data. <br>
 &emsp; 🌱 I'm always open to collaborating on new projects and learning from others. <br>
